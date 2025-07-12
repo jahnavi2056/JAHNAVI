@@ -8,7 +8,7 @@
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - DevOps Tools (Docker, Jenkins)
 - Advanced Deep Learning (CNNs, RNNs, GANs)
-- Cloud Computing (AWS, Azure)
+- Cloud Computing 
 
 ---
 
